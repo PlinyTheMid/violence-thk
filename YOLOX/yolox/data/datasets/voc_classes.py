@@ -27,7 +27,7 @@
 # )
 
 VOC_CLASSES = (
-  "Registration_Plate",
+  "fight",
 )
 
 # VOC_CLASSES = (
