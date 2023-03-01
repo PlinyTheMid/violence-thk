@@ -86,7 +86,7 @@
 # )
 
 COCO_CLASSES = (
-  "Registration_Plate",
+  "fight",
 )
 
 # COCO_CLASSES = (
