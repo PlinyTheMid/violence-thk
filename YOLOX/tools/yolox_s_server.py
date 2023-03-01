@@ -46,7 +46,7 @@ def make_parser():
         help="pls input your experiment description file",
     )
     # parser.add_argument("-c", "--ckpt", default="/home/ubuntu/YOLOX_MOT/YOLOX/YOLOX_pretrained_weights/yolox_s.pth", type=str, help="ckpt for eval")
-    parser.add_argument("-c", "--ckpt", default="/workspace/models/ANPRv3___latest_ckpt.pth", type=str, help="ckpt for eval")
+    parser.add_argument("-c", "--ckpt", default="/workspace/models/violence_danny.pth", type=str, help="ckpt for eval")
     # parser.add_argument("-c", "--ckpt", default="/home/ubuntu/YOLOX_Sam/YOLOX_outputs/yolox_voc_s/latest_ckpt.pth", type=str, help="ckpt for eval")
     # ByteTrack MOT weights
     # parser.add_argument("-c", "--ckpt", default="/home/ubuntu/ByteTrack/pretrained/bytetrack_s_mot17.pth.tar", type=str, help="ckpt for eval")
